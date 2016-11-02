@@ -1,0 +1,6 @@
+Bubble Sort sort 25 numbers in 4.575e-06 seconds.
+Selection Sort sort 25 numbers in 4.259e-06 seconds.
+Insertion Sort sort 25 numbers in 2.46e-06 seconds.
+Quick Sort sort 25 numbers in 2.001e-06 seconds.
+Quick Sort (with median) sort 25 numbers in 2.643e-06 seconds.
+Merge Sort sort 25 numbers in 6.747e-06 seconds.
